@@ -17,10 +17,10 @@
 % Compute the density of the inverse Wishart distribution 
 % conditional on the 1st block diagonal sub-matrix.
 
-% Karagiannis, G., Andrieu, C. (under revision). Drawing samples from 
+% Karagiannis, G., Andrieu, C. (2009, 2016). Drawing samples from 
 % inverse Wishart distributions conditioning on the 1st block diagonal 
-% sub-matrix; with an application to variable selection on a GLMM model 
-% with nested random effects
+% sub-matrix; with an application to variable selection on a GLMM model with 
+% nested random effects, GitHub repository manuscript
 
 % Georgios Karagiannis
 % 
